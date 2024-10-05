@@ -1,0 +1,12 @@
+C:\Users\Enes\Desktop\form uygulamaları\PROJE_SQL_DB_udemy\PROJE_SQL_DB_udemy\bin\Debug\PROJE_SQL_DB_udemy.exe.config
+C:\Users\Enes\Desktop\form uygulamaları\PROJE_SQL_DB_udemy\PROJE_SQL_DB_udemy\bin\Debug\PROJE_SQL_DB_udemy.exe
+C:\Users\Enes\Desktop\form uygulamaları\PROJE_SQL_DB_udemy\PROJE_SQL_DB_udemy\bin\Debug\PROJE_SQL_DB_udemy.pdb
+C:\Users\Enes\Desktop\form uygulamaları\PROJE_SQL_DB_udemy\PROJE_SQL_DB_udemy\obj\Debug\PROJE_SQL_DB_udemy.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\form uygulamaları\PROJE_SQL_DB_udemy\PROJE_SQL_DB_udemy\obj\Debug\PROJE_SQL_DB_udemy.Form1.resources
+C:\Users\Enes\Desktop\form uygulamaları\PROJE_SQL_DB_udemy\PROJE_SQL_DB_udemy\obj\Debug\PROJE_SQL_DB_udemy.Properties.Resources.resources
+C:\Users\Enes\Desktop\form uygulamaları\PROJE_SQL_DB_udemy\PROJE_SQL_DB_udemy\obj\Debug\PROJE_SQL_DB_udemy.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\form uygulamaları\PROJE_SQL_DB_udemy\PROJE_SQL_DB_udemy\obj\Debug\PROJE_SQL_DB_udemy.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\form uygulamaları\PROJE_SQL_DB_udemy\PROJE_SQL_DB_udemy\obj\Debug\PROJE_SQL_DB_udemy.exe
+C:\Users\Enes\Desktop\form uygulamaları\PROJE_SQL_DB_udemy\PROJE_SQL_DB_udemy\obj\Debug\PROJE_SQL_DB_udemy.pdb
+C:\Users\Enes\Desktop\form uygulamaları\PROJE_SQL_DB_udemy\PROJE_SQL_DB_udemy\obj\Debug\PROJE_SQL_DB_udemy.frmkategoriler.resources
+C:\Users\Enes\Desktop\form uygulamaları\PROJE_SQL_DB_udemy\PROJE_SQL_DB_udemy\obj\Debug\PROJE_SQL_DB_udemy.frmmusteri.resources
